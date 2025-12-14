@@ -1,6 +1,5 @@
 # divar-real-estate-analysis
-Quera AI Bootcamp - Project 1 (Fall 2025) 
-Divar Real Estate Data Analysis &amp; ML
+Quera AI Bootcamp - Project 1 (Fall 2025) | Divar Real Estate Data Analysis &amp; ML
 
 ## Dataset
 - Source: Divar Real Estate Advertisements

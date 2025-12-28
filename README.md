@@ -12,6 +12,9 @@ Quera AI Bootcamp - Project 1 (Fall 2025) | Divar Real Estate Data Analysis &amp
 - Clustering & Recommender System
 - Price Prediction Models
 
+## Slides
+- Access: [Slides]([https://www.google.com/url?q=https://drive.google.com/drive/folders/1RZJdNpCfbMt2SB_kfWsxQgOk5LeuV7lw?usp%3Dsharing&sa=D&source=editors&ust=1765741213733163&usg=AOvVaw0h-jPvUnTSQcuXhRsvZOap](https://docs.google.com/presentation/d/1fVD6Yi5cYgRELS4MQqAjey7R7TAeq_Lw9FPOkQO5iaw/edit?usp=sharing))
+
 ## Mentor
 - Amin Vilan
 

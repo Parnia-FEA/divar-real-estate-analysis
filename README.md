@@ -21,5 +21,4 @@ Quera AI Bootcamp - Project 1 (Fall 2025) | Divar Real Estate Data Analysis &amp
 ## Team Members
 - Parnia Dabbagh
 - Pegah Gerailu
-- Amirali Fakhreddin
 - Amir Asadifard
